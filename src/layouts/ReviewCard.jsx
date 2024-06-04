@@ -25,9 +25,8 @@ const ReviewCard = (props) => {
         </span>
       </div>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-        consequatur fuga suscipit perspiciatis totam. Eos esse nisi omnis dicta,
-        aperiam distinctio fuga ipsam rerum rem.
+        This website is very good for learning a language.
+        Nice way to spend our free time.I enjoyed a lot learning it.
       </p>
     </div>
   );

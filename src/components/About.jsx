@@ -13,18 +13,17 @@ const About = () => {
         </div>
         <div className=" w-full lg:w-2/4 p-4 space-y-3">
           <h2 className=" font-semibold text-3xl">
-            What Makes Our Coffee Special?
+          What Makes Our Website Special?
           </h2>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi
-            quaerat quia quasi beatae et iste, tempora voluptatum corporis sit
-            pariatur eaque exercitationem, doloribus eum optio nobis cum?
-            Quidem, dolor atque.
+          Language a new language is a productive thing.Our website will 
+          provide one a environment to learn a new language .Along  with
+          interactive lessons and progress tracking,this also provides a
+          user to give exams on the topics he learned.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam ut
-            minima perspiciatis doloribus quod repellendus molestiae rerum!
-            Enim, vero natus.
+          Moreover our website is completely free of cost and anyone with an
+          email can join this website.It is open for everyone.
           </p>
 
           <Button title="Learn More" />
