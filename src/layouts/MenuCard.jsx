@@ -16,7 +16,7 @@ const MenuCard = (props) => {
           <div className=" flex gap-2">
             
             <button className="px-3 text-sm border-2 border-[#AB6B2E] bg-[#FFDCAB] hover:text-[#AB6B2E] transition-all rounded-lg">
-              Enrol now
+              Enroll now
             </button>
           </div>
           

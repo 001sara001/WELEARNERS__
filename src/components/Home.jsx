@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../assets/img/home.png";
+import img from "../assets/img/logo.jpeg";
 import Button from "../layouts/Button";
 
 const Home = () => {

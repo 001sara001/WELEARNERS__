@@ -83,7 +83,7 @@ const Navbar = () => {
           </nav>
 
           <div className=" hidden lg:flex">
-            <Button title="Login" />
+            <Button title="Change mode" />
           </div>
 
           <div className="md:hidden flex items-center">

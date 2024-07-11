@@ -1,7 +1,7 @@
 import React from "react";
-import img1 from "../assets/img/product1.jpg";
-import img2 from "../assets/img/product2.jpg";
-import img3 from "../assets/img/product3.jpg";
+import img1 from "../assets/img/Test.jpeg";
+import img2 from "../assets/img/Test1.jpeg";
+
 import ProductCard from "../layouts/ProductCard";
 
 const Product = () => {
@@ -16,7 +16,7 @@ const Product = () => {
         <ProductCard img={img1} title="English" />
         <ProductCard img={img1} title="Japanese" />
         <ProductCard img={img2} title="Turkish" />
-        <ProductCard img={img3} title="Korean" />
+        <ProductCard img={img2} title="Korean" />
       </div>
     </div>
   );
